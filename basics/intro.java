@@ -1,3 +1,4 @@
+package basics;
 //  Some of the biggest organization of the world are built using Java.
 // Java is very easy to learn and implement
 // Java has a very strong community support, so no natter what doubts you have, you'll easily b able to find answers to all of them.
