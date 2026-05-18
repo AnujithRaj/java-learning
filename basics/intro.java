@@ -5,7 +5,7 @@ package basics;
 // There are many integrated improvement conditions(IDE's) in Java that gives different offices to programming advancement to developers. Increadible java IDE's such as Eclipse, NettBeans, IntelliJ IDEA, etc. play a major job in the accomplishment of Java.
 
 public class intro {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         // Output
         System.out.println("Hello World!");
 
